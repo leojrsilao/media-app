@@ -1,5 +1,7 @@
 # media-app
 
+https://leo-social-media-app.herokuapp.com/
+
 Technologies used:<br />
 -React<br />
 -GraphQL<br />
