@@ -7,5 +7,4 @@ Technologies used:<br />
 -NodeJs<br />
 -MongoDB Atlas Cloud<br />
 
-Media application that allows users to view a list of posts, reigster for account, login into account, add posts, add comments, remove comments. 
-
+Media application that allows users to view a list of posts, register and login into account, add & remove posts or comments, view more in detail about the one single post. 
